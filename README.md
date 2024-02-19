@@ -2,6 +2,8 @@
 
 I am a data analyst/scientist interested in using data to make a positive impact on people's lives. Some of the things i'm most interested in at the moment are climate and renewable energy.
 
+- I'm currently looking for a data scientist/analyst role in the clean energy/EV/cliimate space
+
 - 🔭 I’m currently working on analyzing data on electric vehicle charging stations and electricity generation.
 
 <!--
